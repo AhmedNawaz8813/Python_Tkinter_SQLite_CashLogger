@@ -6,9 +6,13 @@ A desktop GUI application designed to help users track their personal finances e
 Project Overview
 
 Language: Python
+
 GUI Framework: Tkinter
+
 Database: SQLite3
+
 Visualization: Matplotlib
+
 Type: Desktop Application
 
 
